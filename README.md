@@ -1,16 +1,5 @@
 # Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
-## Steps
 
 ### 1. Clone Repository
 
